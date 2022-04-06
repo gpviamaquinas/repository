@@ -1,10 +1,10 @@
 <?php
 
-namespace Gpvia\Repository;
+namespace gpviamaquinas\Repository;
 
 use \PDO;
 /**
- * Essa classe gerencia a consulta feita em um repositório do BD
+ * Essa classe gerencia a consulta feita em um repositÃ³rio do BD
  */
 class Repository{
 
