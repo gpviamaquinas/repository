@@ -1,6 +1,6 @@
 <?php
 
-namespace Gpvia\Controller;
+namespace gpviamaquinas\Repository;
 
 use PDO;
 
