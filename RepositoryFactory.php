@@ -1,6 +1,6 @@
 <?php
 
-namespace gpviamaquinas\Repository;
+namespace gpviamaquinas\repository;
 
 /**
  * Essa classe é o Factory dos repositórios
