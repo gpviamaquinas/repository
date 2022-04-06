@@ -1,8 +1,7 @@
 <?php
 
-namespace Gpvia\Repository;
+namespace gpviamaquinas\Repository;
 
-use Gpvia\Controller\Connection;
 /**
  * Essa classe é o Factory dos repositórios
  */
