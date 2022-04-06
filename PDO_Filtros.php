@@ -1,6 +1,6 @@
 <?php
 
-namespace Gpvia\Repository;
+namespace gpviamaquinas\repository;
 /**
  * Essa classe consulta o Banco de Dados utilizando o PDO 
  */
