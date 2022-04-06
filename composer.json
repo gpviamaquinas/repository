@@ -1,5 +1,5 @@
 {
-    "name": "gpviamaquinas/Repository",
+    "name": "gpviamaquinas/repository",
     "description": "Classe padrões do gpviamaquinas",
     "require": {
         "php": ">=7.4"
