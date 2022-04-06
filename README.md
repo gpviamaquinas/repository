@@ -1,2 +1,2 @@
-# Repository
-Classe padrões do gpviamaquinas
+# repository
+Classe padrões de Repositório do gpviamaquinas
